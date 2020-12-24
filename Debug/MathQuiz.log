@@ -1,0 +1,4 @@
+﻿  MathQuiz.cpp
+c:\users\siam\desktop\programming stuff\c++ programs\mathquiz\mathquiz.cpp(214): warning C4101: 'sudoans': unreferenced local variable
+c:\users\siam\desktop\programming stuff\c++ programs\mathquiz\mathquiz.cpp(337): warning C4101: 'sudoans': unreferenced local variable
+  MathQuiz.vcxproj -> C:\Users\Siam\Desktop\Programming Stuff\C++ Programs\MathQuiz\Debug\MathQuiz.exe
